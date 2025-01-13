@@ -11,12 +11,17 @@
 git clone git@github.com:okxooxoo/knitting_pattern_viewer.git
 ```
 
-3. 라이브러리를 추가한다.
+4. yarn을 설치한다.
+```
+npm install -g yarn
+```
+
+5. 모든 라이브러리(의존성)를 추가한다.
 ```
 yarn install
 ```
 
-4. React 프로젝트를 실행한다.
+6. React 프로젝트를 실행한다.
 ```
 yarn start
 ```
